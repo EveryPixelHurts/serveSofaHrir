@@ -2874,7 +2874,7 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-"fractional-delay@github:Ircam-RnD/fractional-delay#gh-pages":
+fractional-delay@Ircam-RnD/fractional-delay#gh-pages:
   version "0.1.0"
   resolved "https://codeload.github.com/Ircam-RnD/fractional-delay/tar.gz/687be9b8c42716c72ccae922510867c264a0ccf5"
   dependencies:
